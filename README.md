@@ -1,4 +1,5 @@
 # Flashforge Guider IIs Cura Profile Setup
+<sub>Tested on Cura version 5.2.2</sub>
 
 1. Open Cura and go to Settings -> Printer -> Add Printer
 2. Find Flashforge (under Non-Networked Printer), type your Printer name then click Add
@@ -73,6 +74,7 @@ Use RegEx	Yes
      - Rename the file extension from filename.gcode to filename.g
      - Or install the [GXWriter](https://marketplace.ultimaker.com/app/cura/plugins/Ronoaldo/GXWriter) plugin and save the file in .gx format
 
+`Unfortunately you can't connect the Guider IIs to Cura through USB`
 
 ## Reference Links
 * [FlashForge Documentation](https://www.flashforge.com/download-center/53)

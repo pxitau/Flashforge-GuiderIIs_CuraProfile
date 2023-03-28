@@ -35,7 +35,7 @@ G1 E-1.0000 F1800
 End G-code
 ```
 M104 S0 T0; cool down extruder
-M140 S0; cool down bed
+M140 S0 T0; cool down bed
 G162 Z F1800; 
 G28 X Y; home axes
 M132 X Y A B; recall home offsets from EPROM

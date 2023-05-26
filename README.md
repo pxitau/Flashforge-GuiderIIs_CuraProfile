@@ -82,6 +82,4 @@ Use RegEx	Yes
 * [Reddit Post](https://www.reddit.com/r/FlashForge/comments/euyqt4/guider_ii_guider_iis_cura_profile/)
 
 
-https://pxit.com.au
-
-© 2023 PXIT. All rights reserved.
+© 2023 [PXIT](https://pxit.com.au). All rights reserved.

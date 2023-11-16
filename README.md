@@ -80,3 +80,6 @@ Use RegEx	Yes
 * [FlashForge Documentation](https://www.flashforge.com/download-center/53)
 * [UltiMaker Community Forum](https://community.ultimaker.com/topic/41418-guider-2s/)
 * [Reddit Post](https://www.reddit.com/r/FlashForge/comments/euyqt4/guider_ii_guider_iis_cura_profile/)
+
+
+© 2023 [PXIT](https://pxit.com.au). All rights reserved.

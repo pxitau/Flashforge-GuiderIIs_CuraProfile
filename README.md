@@ -1,5 +1,5 @@
 # Flashforge Guider IIs Cura Profile Setup
-<sub>Tested on Cura version 5.2.2</sub>
+<sub>Tested on Cura version 5.5.0</sub>
 
 1. Open Cura and go to Settings -> Printer -> Add Printer
 2. Find Flashforge (under Non-Networked Printer), type your Printer name then click Add
